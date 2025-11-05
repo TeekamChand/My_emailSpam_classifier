@@ -125,7 +125,7 @@ else:
     **Model:** TF-IDF + Logistic Regression  
     **Dataset:** [SMS Spam Collection (UCI)](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)  
     **Created for:** Demo & learning purpose  
-    **Author:** You 😎  
+    **Author:** Teekam Chand 😎  
     ---
     This app automatically trains itself if no saved model is found, 
     so you can deploy it easily on Streamlit Cloud.
